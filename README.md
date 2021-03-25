@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @pewapplepie
 - 👀 I’m interested in Quantitative Finance
 - 🌱 I’m currently Master of Financial Engineering Candidate @ UCLA Anderson
-- 💞️ I’m looking to collaborate on any algo trading strategies or projects
+- 💞️ I’m aiming for Algo/Quant Trading/Research internship position 
+- 🏀 Check out my website to learn more about me @ https://pewapplepie.github.io/jschenapplapie/
 - 📫 Welcome to reach me via email jschen1217@gmail.com
 
 <!---

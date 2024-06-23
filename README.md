@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantitative Finance
 - 🌱 I’m currently Master of Financial Engineering Candidate @ UCLA Anderson
 - 💞️ I’m aiming for Algo/Quant Trading/Research internship position 
-- 🏀 Check out my website to learn more about me @ https://pewapplepie.github.io/
+- 🏀 Check out my website to learn more about me @ [https://pewapplepie.github.io/](https://pewapplepie.github.io/jcapp/)
 - 📫 Welcome to reach me via email jjchen.ha@gmail.com
 
 <!---
